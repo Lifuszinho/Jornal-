@@ -59,6 +59,10 @@ article a:hover {
     border-bottom: 2px solid white;
     text-decoration: none;
 }
+article :visited {
+    color: rgb(23, 111, 243);
+    border:rgb(23, 111, 243) solid;
+}
 footer {
     background-color: rgb(126, 126, 126);
     color: white;
